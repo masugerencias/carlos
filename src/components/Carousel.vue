@@ -28,10 +28,11 @@ export default {
     },
     mounted() {
         this.pokemon = apiFilms.getPokemon(25)
-        
+
     }
 
     //esto al ser una promesa es asi.
+    //rueba add
 
 }
 </script>
